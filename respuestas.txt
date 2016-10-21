@@ -7,5 +7,9 @@ Respuestas de Primeros Pasos en Ruby
     En la rama doc, donde he realizado el último commit.
    
 3. Indique dónde se encuentran las ramas doc y master
-
     Ambos se encuentran ahora mismo en el HEAD
+    
+4. ¿Qué es rvm?
+    Es una herramienta de línea de comandos que permite gestionar varias versiones de Ruby 
+en un solo host, múltiples entornos de intérpretes y gemas.
+
