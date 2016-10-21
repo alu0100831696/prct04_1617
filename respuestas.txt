@@ -1,7 +1,11 @@
 Respuestas de Primeros Pasos en Ruby
 
 1. ¿Cuántas ramas hay?¿Cuáles son locales y cuáles son remotas?
- Hay dos ramas, la rama master que es remota y la rama doc que es local. 
+    Hay dos ramas, la rama master que es remota y la rama doc que es local. 
 
 2. Dónde se encuentra el head.
-   En la rama doc, donde he realizado el último commit.
+    En la rama doc, donde he realizado el último commit.
+   
+3. Indique dónde se encuentran las ramas doc y master
+
+    Ambos se encuentran ahora mismo en el HEAD
